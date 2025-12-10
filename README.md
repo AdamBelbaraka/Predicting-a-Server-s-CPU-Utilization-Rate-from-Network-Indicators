@@ -1,0 +1,2 @@
+# Predicting-a-Server-s-CPU-Utilization-Rate-from-Network-Indicators
+This project designs, explains, and evaluates a **regression model** that predicts a server’s **CPU load** using network indicators.   The work is framed in a **Security Operations Center (SOC)** scenario to help **anticipate overloads** (e.g., DDoS-like traffic bursts) and detect **abnormal behavior** before it impacts service availability.
