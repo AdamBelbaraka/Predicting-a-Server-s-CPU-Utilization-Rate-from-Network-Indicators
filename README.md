@@ -13,7 +13,7 @@ Each observation corresponds to a **time interval** and includes:
 - `data_volume_MB`: transmitted data volume (MB)  
 - `packet_loss_rate`: packet loss rate (%)  
 - `ids_alerts`: number of IDS alerts  
-- `cpu_load`: CPU load — **target variable to predict**
+- `cpu_load`: CPU load, **target variable to predict**
 
 > The dataset is realistically simulated with noise and CPU spikes to mimic real SOC monitoring conditions.
 
